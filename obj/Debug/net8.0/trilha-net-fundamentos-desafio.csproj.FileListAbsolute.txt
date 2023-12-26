@@ -1,0 +1,14 @@
+C:\CursoCSharp\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.exe
+C:\CursoCSharp\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.deps.json
+C:\CursoCSharp\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.runtimeconfig.json
+C:\CursoCSharp\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.dll
+C:\CursoCSharp\trilha-net-fundamentos-desafio\bin\Debug\net8.0\trilha-net-fundamentos-desafio.pdb
+C:\CursoCSharp\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoCSharp\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.AssemblyInfoInputs.cache
+C:\CursoCSharp\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.AssemblyInfo.cs
+C:\CursoCSharp\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.dll
+C:\CursoCSharp\trilha-net-fundamentos-desafio\obj\Debug\net8.0\refint\trilha-net-fundamentos-desafio.dll
+C:\CursoCSharp\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.pdb
+C:\CursoCSharp\trilha-net-fundamentos-desafio\obj\Debug\net8.0\trilha-net-fundamentos-desafio.genruntimeconfig.cache
+C:\CursoCSharp\trilha-net-fundamentos-desafio\obj\Debug\net8.0\ref\trilha-net-fundamentos-desafio.dll
